@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584177279631.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "92779213",
+    "lastKnownWriteTime" : 4,
+    "last_content_update" : 1584177279631,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "331A865A",
+        "caption" : "error_DT_full",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=error_DT_full&cache_key=331A865A",
+        "displayedObservations" : "267",
+        "environment" : "",
+        "expression" : "error_DT_full",
+        "object" : "error_DT_full",
+        "preview" : "0",
+        "totalObservations" : "267",
+        "variables" : "3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

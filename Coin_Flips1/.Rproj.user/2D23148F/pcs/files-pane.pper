@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/STAT380/Coin_Flips1/project/volume/data",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

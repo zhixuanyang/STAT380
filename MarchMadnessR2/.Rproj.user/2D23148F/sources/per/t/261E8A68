@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584215741606.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2952078810",
+    "id" : "261E8A68",
+    "lastKnownWriteTime" : 1584215918,
+    "last_content_update" : 1584215918834,
+    "path" : "~/Desktop/STAT380/MarchMadnessR2/project/src/features/build_features.r",
+    "project_path" : "project/src/features/build_features.r",
+    "properties" : {
+        "cursorPosition" : "8,72",
+        "scrollLine" : "0",
+        "source_window_id" : ""
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

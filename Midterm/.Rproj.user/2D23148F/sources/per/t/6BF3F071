@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585518911092.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1153614078",
+    "id" : "6BF3F071",
+    "lastKnownWriteTime" : 1585282951,
+    "last_content_update" : 1585282951,
+    "path" : "~/Desktop/STAT380/Midterm/project/src/models/train_model.r",
+    "project_path" : "project/src/models/train_model.r",
+    "properties" : {
+        "cursorPosition" : "23,46",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

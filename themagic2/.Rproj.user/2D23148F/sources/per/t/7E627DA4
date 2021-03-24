@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584176455315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2586497419",
+    "id" : "7E627DA4",
+    "lastKnownWriteTime" : 1584176558,
+    "last_content_update" : 1584176558539,
+    "path" : "~/Desktop/STAT380/themagic2/project/src/models/train_model.r",
+    "project_path" : "project/src/models/train_model.r",
+    "properties" : {
+        "cursorPosition" : "22,0",
+        "scrollLine" : "11"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

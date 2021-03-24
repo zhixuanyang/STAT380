@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587958086986.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1032201332",
+    "id" : "6D523A5B",
+    "lastKnownWriteTime" : 1586643745,
+    "last_content_update" : 1586643745,
+    "path" : "~/Desktop/STAT380/HousePriceXGboost/project/src/models/train_model.r",
+    "project_path" : "project/src/models/train_model.r",
+    "properties" : {
+        "cursorPosition" : "114,1",
+        "scrollLine" : "74"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

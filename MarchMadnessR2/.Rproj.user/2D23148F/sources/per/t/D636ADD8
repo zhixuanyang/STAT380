@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584213492864.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2563710562",
+    "id" : "D636ADD8",
+    "lastKnownWriteTime" : 1584215685,
+    "last_content_update" : 1584215685129,
+    "path" : "~/Desktop/STAT380/MarchMadnessR2/project/src/models/train_model.r",
+    "project_path" : "project/src/models/train_model.r",
+    "properties" : {
+        "cursorPosition" : "54,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

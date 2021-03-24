@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587493524336.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "42982620",
+    "lastKnownWriteTime" : 1579701784,
+    "last_content_update" : 1587493524336,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "0904570318dc4e7d8fd7186cc61ef6b1",
+        "name" : "tsne_pca",
+        "title" : "tsne_pca"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

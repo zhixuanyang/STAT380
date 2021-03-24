@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587428622204.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "696144D4",
+    "lastKnownWriteTime" : 8030879312480528640,
+    "last_content_update" : 1587428622204,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C893DAC1",
+        "caption" : "submission",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=submission&cache_key=C893DAC1",
+        "displayedObservations" : "2250",
+        "environment" : "",
+        "expression" : "submission",
+        "object" : "submission",
+        "preview" : "0",
+        "totalObservations" : "2250",
+        "variables" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

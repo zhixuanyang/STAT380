@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/STAT380/Identifying Species/project/volume/data/raw",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

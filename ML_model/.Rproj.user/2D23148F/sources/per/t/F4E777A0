@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580675105145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1569121950",
+    "id" : "F4E777A0",
+    "lastKnownWriteTime" : 1580675827,
+    "last_content_update" : 1580675827716,
+    "path" : "~/Desktop/STAT380/ML_model/project/src/features/build_features.r",
+    "project_path" : "project/src/features/build_features.r",
+    "properties" : {
+        "cursorPosition" : "8,30",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

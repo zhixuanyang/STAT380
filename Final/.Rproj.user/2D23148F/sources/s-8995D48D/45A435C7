@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586723157503.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3856232772",
+    "id" : "45A435C7",
+    "lastKnownWriteTime" : 1588906306,
+    "last_content_update" : 1588906306759,
+    "path" : "~/Desktop/STAT380/Final/project/src/features/build_features.r",
+    "project_path" : "project/src/features/build_features.r",
+    "properties" : {
+        "cursorPosition" : "62,1",
+        "scrollLine" : "49"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
